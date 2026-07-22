@@ -5,6 +5,7 @@
 // @author       Ovolya
 // @description  Копіює дату й час на графіку під курсором лівою клавішею миші.
 // @match        *://10.21.31.5:8080/*
+// @match        *://thbrd.bitech.com.ua/*
 // @updateURL    https://github.com/Ovolsan/ThingsBoard-copying-time-from-the-schedule/raw/refs/heads/main/ThingsBoard%20copying%20time%20from%20the%20schedule.user.js
 // @downloadURL  https://github.com/Ovolsan/ThingsBoard-copying-time-from-the-schedule/raw/refs/heads/main/ThingsBoard%20copying%20time%20from%20the%20schedule.user.js
 // @grant        none
