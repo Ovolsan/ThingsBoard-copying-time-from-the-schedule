@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ThingsBoard копіювання часу із графіка
 // @namespace    http://tampermonkey.net/
-// @version      20260722
+// @version      20260722.1
 // @author       Ovolya
 // @description  Копіює дату й час на графіку під курсором лівою клавішею миші.
 // @match        *://10.21.31.5:8080/*
